@@ -176,7 +176,7 @@ section {
 }
 
 .home .slide .content span {
-  font-size: 1.5rem;
+  font-size: 3rem;
   display: block;
   padding-bottom: 0.5rem;
   color: var(--light-white);
@@ -184,7 +184,7 @@ section {
 }
 
 .home .slide .content h3 {
-  font-size: 3vw;
+  font-size: 5vw;
   text-transform: uppercase;
   color: var(--white);
   text-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.7);
