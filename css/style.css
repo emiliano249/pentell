@@ -16,7 +16,7 @@
 }
 
 * {
-  font-family: "Dosis", sans-serif;
+  font-family: "Roboto", sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -52,7 +52,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 section {
-  padding: 5rem 10%;
+  padding: 7rem 10%;
 }
 
 .heading {
@@ -301,6 +301,7 @@ section {
   text-align: center;
   border-radius: 6px;
   padding: 20px 25px;
+  margin-bottom: 4rem;
   cursor: pointer;
   transition: all 0.3s ease;
 }
